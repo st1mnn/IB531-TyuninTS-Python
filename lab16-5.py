@@ -1,7 +1,7 @@
 from random import randint
 
 m = 5  # min-max integer number
-#asdhasjkdasdasdasdasdasdasdasdasdasdasdasdasdadsasdshkdashkjdas
+#asdhasjkdasdasdasdasdasdasdasdasdasdasdasфывфывфывdasdadsasdshkdashkjdas
 
 # Алгоритм пересчета
 def sort_pereschet(arr):
